@@ -74,7 +74,7 @@ streamlit run app.py
 
 **Model Metrics Tab:** View confusion matrices and model evaluation results
 
-### Dataset Description
+## Dataset Description
 
 This project uses a dataset of user reviews of ChatGPT with the following features:
 
