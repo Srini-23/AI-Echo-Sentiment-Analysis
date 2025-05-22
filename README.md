@@ -68,11 +68,11 @@ streamlit run app.py
 ```
 
 ## Dashboard Preview
-**Dashboard Tab:** EDA with visual insights from the dataset
+- **Dashboard Tab:** EDA with visual insights from the dataset
 
-**Review Analyzer Tab:** Predict sentiment from user-input review text
+- **Review Analyzer Tab:** Predict sentiment from user-input review text
 
-**Model Metrics Tab:** View confusion matrices and model evaluation results
+- **Model Metrics Tab:** View confusion matrices and model evaluation results
 
 ## Dataset Description
 
